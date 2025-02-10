@@ -1,10 +1,10 @@
-Object Detection AI Model for Edge Devices
+**Object Detection AI Model for Edge Devices**
 
-Overview
+*Overview*
 
 This project implements an AI-powered object detection model using Edge Impulse on an ESP-EYE (ESP32-based camera module). The model is optimized for low-power edge devices and utilizes FOMO (Faster Objects, More Objects) to detect multiple objects in real-time with minimal computational overhead.
 
-Features
+*Features*
 
 Edge AI Integration – Runs inference directly on ESP32 without cloud processing.
 
@@ -16,7 +16,9 @@ Real-Time Inference & Monitoring – Captures images, processes data, and classi
 
 IoT-Ready – Suitable for smart surveillance, industrial monitoring, and AI-powered security systems.
 
-Hardware Requirements
+
+
+*Hardware Requirements*
 
 ESP-EYE (ESP32-based camera module)
 
@@ -34,7 +36,8 @@ Edge Impulse SDK
 
 ESP32 Camera library
 
-Installation & Setup
+
+*Installation & Setup*
 
 Set up Arduino IDE and install the required ESP32 libraries.
 
@@ -44,7 +47,7 @@ Upload the firmware to the ESP32 module.
 
 Start real-time inference and monitor object detection results.
 
-Applications
+*Applications*:
 
 Smart surveillance and security systems
 
@@ -52,7 +55,7 @@ Industrial automation & defect detection
 
 Wildlife and environmental monitoring
 
-References
+*References*
 
 Edge Impulse Documentation
 
@@ -60,6 +63,6 @@ ESP32 Camera Module Guide
 
 Arduino with Edge Impulse
 
-Author
+*Author*
 
-Developed by [Your Name]
+Developed by Shaurya Jain
